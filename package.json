@@ -3,6 +3,21 @@
   "displayName": "Space Notion",
   "description": "Ursa Themes",
   "version": "0.0.1",
+  "publisher": "ursanor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnurUrsar/space-notion-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "notion",
+    "space",
+    "space notion",
+    "oceanic",
+    "github",
+    "git"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -17,5 +32,8 @@
         "path": "./themes/space-notion-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
