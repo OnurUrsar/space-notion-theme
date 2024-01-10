@@ -1,0 +1,21 @@
+{
+  "name": "space-notion-theme",
+  "displayName": "Space Notion",
+  "description": "Ursa Themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "space-notion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/space-notion-theme.json"
+      }
+    ]
+  }
+}
