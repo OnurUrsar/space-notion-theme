@@ -27,7 +27,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "space-notion",
+        "label": "Space Notion",
         "uiTheme": "vs-dark",
         "path": "./themes/space-notion-theme.json"
       }
