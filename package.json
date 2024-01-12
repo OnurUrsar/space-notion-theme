@@ -2,6 +2,7 @@
   "name": "space-notion-theme",
   "displayName": "Space Notion",
   "description": "Ursa Themes",
+  "icon": "images/space-notion.png",
   "version": "0.1.0",
   "publisher": "ursanor",
   "repository": {
